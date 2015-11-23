@@ -8,6 +8,7 @@
 		Add Test 1
 		Add Test 2
 		Add from Peter
+		Add from Ghost
 	</body>
 
 </html>
