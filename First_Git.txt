@@ -2,6 +2,7 @@
 	<body>
 		<h1>Git<h2>
 		Add Push
+		Add Pull
 	</body>
 
 </html>
