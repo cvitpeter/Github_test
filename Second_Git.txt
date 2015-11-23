@@ -3,6 +3,7 @@
 		<h2>This is Git Study<h2>
 		This line for discard 
 		One more 2
+		Add Regula Code
 	</body>
 
 </html>
